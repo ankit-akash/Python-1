@@ -238,6 +238,7 @@
     * [Stack With Singly Linked List](data_structures/stacks/stack_with_singly_linked_list.py)
     * [Stock Span Problem](data_structures/stacks/stock_span_problem.py)
   * Trie
+    * [Radix Tree](data_structures/trie/radix_tree.py)
     * [Trie](data_structures/trie/trie.py)
 
 ## Digital Image Processing
@@ -328,7 +329,9 @@
   * [Electric Conductivity](electronics/electric_conductivity.py)
   * [Electric Power](electronics/electric_power.py)
   * [Electrical Impedance](electronics/electrical_impedance.py)
+  * [Ind Reactance](electronics/ind_reactance.py)
   * [Ohms Law](electronics/ohms_law.py)
+  * [Resistor Equivalence](electronics/resistor_equivalence.py)
   * [Resonant Frequency](electronics/resonant_frequency.py)
 
 ## File Transfer
@@ -524,6 +527,7 @@
   * [Collatz Sequence](maths/collatz_sequence.py)
   * [Combinations](maths/combinations.py)
   * [Decimal Isolate](maths/decimal_isolate.py)
+  * [Dodecahedron](maths/dodecahedron.py)
   * [Double Factorial Iterative](maths/double_factorial_iterative.py)
   * [Double Factorial Recursive](maths/double_factorial_recursive.py)
   * [Entropy](maths/entropy.py)
@@ -595,6 +599,7 @@
   * [Prime Numbers](maths/prime_numbers.py)
   * [Prime Sieve Eratosthenes](maths/prime_sieve_eratosthenes.py)
   * [Primelib](maths/primelib.py)
+  * [Print Multiplication Table](maths/print_multiplication_table.py)
   * [Proth Number](maths/proth_number.py)
   * [Pythagoras](maths/pythagoras.py)
   * [Qr Decomposition](maths/qr_decomposition.py)
@@ -705,7 +710,7 @@
   * [Newtons Second Law Of Motion](physics/newtons_second_law_of_motion.py)
   * [Potential Energy](physics/potential_energy.py)
   * [Rms Speed Of Molecule](physics/rms_speed_of_molecule.py)
-  * [Sheer Stress](physics/sheer_stress.py)
+  * [Shear Stress](physics/shear_stress.py)
 
 ## Project Euler
   * Problem 001
@@ -991,6 +996,7 @@
   * [Deutsch Jozsa](quantum/deutsch_jozsa.py)
   * [Half Adder](quantum/half_adder.py)
   * [Not Gate](quantum/not_gate.py)
+  * [Q Fourier Transform](quantum/q_fourier_transform.py)
   * [Q Full Adder](quantum/q_full_adder.py)
   * [Quantum Entanglement](quantum/quantum_entanglement.py)
   * [Quantum Teleportation](quantum/quantum_teleportation.py)
@@ -1126,6 +1132,7 @@
 
 ## Web Programming
   * [Co2 Emission](web_programming/co2_emission.py)
+  * [Convert Number To Words](web_programming/convert_number_to_words.py)
   * [Covid Stats Via Xpath](web_programming/covid_stats_via_xpath.py)
   * [Crawl Google Results](web_programming/crawl_google_results.py)
   * [Crawl Google Scholar Citation](web_programming/crawl_google_scholar_citation.py)
